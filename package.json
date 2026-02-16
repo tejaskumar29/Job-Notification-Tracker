@@ -1,0 +1,23 @@
+{
+  "name": "kodnest-premium-build-system",
+  "version": "0.1.0",
+  "private": true,
+  "description": "KodNest Premium Build System – a calm, intentional, coherent SaaS design system.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "echo \"No linter configured yet\""
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.2",
+    "@vitejs/plugin-react-swc": "^3.7.0",
+    "typescript": "^5.6.3",
+    "vite": "^6.0.0"
+  }
+}
